@@ -6,5 +6,9 @@
   {
     "role": "assistant",
     "content": "Hello ! How can I assist you today? Is there anything specific you'd like to know about the current project or any changes you'd like to make?"
+  },
+  {
+    "role": "user",
+    "content": "simple hello world page"
   }
 ]
